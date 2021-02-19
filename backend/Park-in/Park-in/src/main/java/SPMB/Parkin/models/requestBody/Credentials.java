@@ -1,4 +1,4 @@
-package SPMB.Parkin.models;
+package SPMB.Parkin.models.requestBody;
 
 public class Credentials {
     private String email;
